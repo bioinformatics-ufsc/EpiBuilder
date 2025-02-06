@@ -28,7 +28,7 @@ node_modules/
 /dist/
 /out-tsc/
 /coverage/
-/.angular/
+.angular/
 # IDE specific
 .vscode/
 .idea/
